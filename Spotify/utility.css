@@ -1,0 +1,40 @@
+.border
+{
+    border: 2px solid red; 
+}
+.flex{
+    display: flex;
+}
+.justifyC
+{
+    justify-content: center;
+}
+.itemC
+{
+    align-items: center;
+}
+.bg-black
+{
+    background-color: black;
+    color: white;
+}
+.invert
+{
+    filter: invert(1);
+}
+.bg-grey
+{
+    background-color: #121212;
+}
+.border-curve
+{
+    border-radius: 7px;
+}
+.m-1
+{
+    margin: 8px;
+}
+.p-1
+{
+    padding: 16px;
+}
